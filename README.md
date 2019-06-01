@@ -18,12 +18,10 @@ I used Chrome webdriver and **TestNG** framework for this example
 * Close the browser
 
 ---
-**For this task I used Python v.37-32 with selenium**
-* Install Python 37-32 on your computer from https://www.python.org/downloads/;
-* Text editor of choice, preferably [PyCharm IDE] (https://www.jetbrains.com/pycharm/);
+**For this task I used JDK v.12.0.1 with selenium**
+* Install on your computer [JDK 12.0.1] (https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html);
+* Install [Eclipse](https://www.eclipse.org/);
 * Install & configure source control system of choice (or git).
 
 **Useful links:** 
-* [Unofficial Selenium Python documentation](http://selenium-python.readthedocs.io/)
-* [Dive into Python](http://www.diveintopython.net/)
-* [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+* [How to install java eclipse and start your first project](https://www.guru99.com/installing-selenium-webdriver.html)
