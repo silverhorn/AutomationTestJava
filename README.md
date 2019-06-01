@@ -19,7 +19,7 @@ I used Chrome webdriver and **TestNG** framework for this example
 
 ---
 **For this task I used JDK v.12.0.1 with selenium**
-* Install on your computer [JDK 12.0.1] (https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html);
+* Install on your computer [JDK 12.0.1](https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html);
 * Install [Eclipse](https://www.eclipse.org/);
 * Install & configure source control system of choice (or git).
 
