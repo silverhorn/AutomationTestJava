@@ -22,6 +22,9 @@ I used Chrome webdriver and **TestNG** framework for this example
 * Install on your computer [JDK 12.0.1](https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html);
 * Install [Eclipse](https://www.eclipse.org/);
 * Install & configure source control system of choice (or git).
+* Download and unzip Maven from the https://maven.apache.org/download.cgi
 
 **Useful links:** 
 * [How to install java eclipse and start your first project](https://www.guru99.com/installing-selenium-webdriver.html)
+* [How to add Maven to the path](https://www.mkyong.com/maven/how-to-install-maven-in-windows/)
+* [How to install TestNG framework](https://www.ecanarys.com/Blogs/ArticleID/169/How-to-Install-TestNG-framework-Step-by-Step-installation-process)
